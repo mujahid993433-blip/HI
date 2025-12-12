@@ -1,2 +1,2 @@
 # HI
-this my first code
+print("HI")
